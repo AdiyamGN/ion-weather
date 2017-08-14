@@ -26,3 +26,27 @@
 .tabs-md .tab-button-icon {
     color: #ccc;
 }
+
+.temprature {
+    font-size: 90px;
+    font-weight: normal;
+    text-align: center;
+    color: #323241;
+}
+
+.location, .icon, .description {
+    text-align: center;
+    color: #323241;
+}
+
+.icon img {
+    width: 100px;
+}
+
+.description {
+    font-size: 30px;
+}
+
+.location {
+    font-size: 40px;
+}
